@@ -1,83 +1,83 @@
-[04:05:03] [info] Source   : [4mhttps://davinkusuma.framer.website[24m
-[04:05:03] [info] Output   : [38;2;250;178;131m/Users/vexushi/Portfolio/davin-kusuma-portfolio-v.1.0.6[39m
-[04:05:03] [info] Platform : [38;2;250;178;131mFramer[39m
-[04:05:03] [info] DPR      : [38;2;250;178;131m1[39m
-[04:05:03] [info] Subpages : [38;2;127;216;143menabled[39m
-[04:05:03] [log] Output directory structure created
-[04:05:03] [log] Fetching SSR HTML from https://davinkusuma.framer.website
-[04:05:03] [ok] SSR HTML fetched (175.5 KB)
-[04:05:03] [log] Launching headless Chromium...
-[04:05:06] [ok] Chromium launched
-[04:05:06] [log] Stealth hardening applied (Chrome 148.0.7778.97)
-[04:05:06] [log] Viewport set to 1440x900 at 1x DPR
-[04:05:06] [log] Blocking 8 tracking domains:
-[04:05:06] [log]   - sentry.io
-[04:05:06] [log]   - www.googletagmanager.com
-[04:05:06] [log]   - connect.facebook.net
-[04:05:06] [log]   - stats.g.doubleclick.net
-[04:05:06] [log]   - google-analytics.com
-[04:05:06] [log]   - events.framer.com
-[04:05:06] [log]   - api.framer.com
-[04:05:06] [log]   - collect.frameranalytics.com
-[04:05:06] [log] Network interception enabled
-[04:05:06] [info] Navigating to https://davinkusuma.framer.website
-[04:05:06] [ok] Document loaded; waiting for page content and resources
-[04:05:06] [log] Intercepted 0 resources, blocked 0 tracking requests, skipped 0 platform assets
-[04:05:06] [log] Checking DOM-based platform detection...
-[04:05:07] [log] Hydration content found: #main
-[04:05:11] [log] Waiting for font layout and response bodies
-[04:05:11] [log] Resources settled
-[04:05:11] [log] Captured HTML and CSSOM (193.9 KB)
-[04:05:11] [ok] Captured 36 network resources total
-[04:05:11] [log]   CSS: 0 | JS: 19 | Images: 10 | Fonts: 0
-[04:05:11] [log] Scanning page for internal links...
-[04:05:11] [log] Found 5 sub-page links on the home page
-[04:05:11] [log]   Navigating to sub-page: https://davinkusuma.framer.website/cat-notes
-[04:05:13] [log] Hydration content found: #main
-[04:05:20] [log] Waiting for font layout and response bodies
-[04:05:20] [log] Resources settled
-[04:05:20] [log]   Sub-page fetched: 121.4 KB
-[04:05:20] [log]   Saved: subpages/cat-notes.html
-[04:05:20] [log]   Navigating to sub-page: https://davinkusuma.framer.website/get-flagged
-[04:05:21] [log] Hydration content found: #main
-[04:05:25] [log] Waiting for font layout and response bodies
-[04:05:25] [log] Resources settled
-[04:05:25] [log]   Sub-page fetched: 118.2 KB
-[04:05:25] [log]   Saved: subpages/get-flagged.html
-[04:05:25] [log]   Navigating to sub-page: https://davinkusuma.framer.website/kaimera
-[04:05:26] [log] Hydration content found: #main
-[04:05:31] [log] Waiting for font layout and response bodies
-[04:05:31] [log] Resources settled
-[04:05:31] [log]   Sub-page fetched: 118.0 KB
-[04:05:31] [log]   Saved: subpages/kaimera.html
-[04:05:31] [log]   Navigating to sub-page: https://davinkusuma.framer.website/what-stays-behind
-[04:05:31] [log] Hydration content found: #main
-[04:05:36] [log] Waiting for font layout and response bodies
-[04:05:36] [log] Resources settled
-[04:05:36] [log]   Sub-page fetched: 117.0 KB
-[04:05:36] [log]   Saved: subpages/what-stays-behind.html
-[04:05:36] [log]   Navigating to sub-page: https://davinkusuma.framer.website/kopycut
-[04:05:37] [log] Hydration content found: #main
-[04:05:41] [log] Waiting for font layout and response bodies
-[04:05:41] [log] Resources settled
-[04:05:41] [log]   Sub-page fetched: 119.0 KB
-[04:05:41] [log]   Saved: subpages/kopycut.html
-[04:05:41] [ok] Sub-pages crawled: 5
-[04:05:41] [log] Browser closed
-[04:05:41] [ok] Queued 32 resource(s) declared in HTML but never requested
-[04:05:41] [log] Starting download of 79 assets and their CSS/HTML dependencies
-[04:05:42] [ok] Downloads complete: 79 succeeded, 47 from cache
-[04:05:42] [ok] Lazy-loaded chunks resolved: 1
-[04:05:42] [log] Starting HTML post-processing...
-[04:05:42] [log] HTML size: 193.9 KB
-[04:05:42] [ok] Index HTML pipeline complete
-[04:05:42] [log] Rewrote URLs in 12 JS/CSS files
-[04:05:42] [ok] Sub-pages linked to local assets: 5/5
-[04:05:42] [ok] Captured asset URLs rewritten to local paths
-[04:05:44] [ok] Formatted 28/28 JS/MJS files
-[04:05:44] [log] Writing index.html (200.4 KB)...
-[04:05:44] [ok] index.html written
-[04:05:44] [log] serve.js written
-[04:05:44] [log] package.json written for serve.js
-[04:05:44] [ok] Output build complete
-[04:05:44] [ok] Export complete!
+[04:11:38] [info] Source   : [4mhttps://davinkusuma.framer.website[24m
+[04:11:38] [info] Output   : [38;2;250;178;131m/Users/vexushi/Portfolio/davin-kusuma-portfolio-v.1.0.7[39m
+[04:11:38] [info] Platform : [38;2;250;178;131mFramer[39m
+[04:11:38] [info] DPR      : [38;2;250;178;131m1[39m
+[04:11:38] [info] Subpages : [38;2;127;216;143menabled[39m
+[04:11:38] [log] Output directory structure created
+[04:11:38] [log] Fetching SSR HTML from https://davinkusuma.framer.website
+[04:11:39] [ok] SSR HTML fetched (175.5 KB)
+[04:11:39] [log] Launching headless Chromium...
+[04:11:40] [ok] Chromium launched
+[04:11:40] [log] Stealth hardening applied (Chrome 148.0.7778.97)
+[04:11:40] [log] Viewport set to 1440x900 at 1x DPR
+[04:11:40] [log] Blocking 8 tracking domains:
+[04:11:40] [log]   - sentry.io
+[04:11:40] [log]   - www.googletagmanager.com
+[04:11:40] [log]   - connect.facebook.net
+[04:11:40] [log]   - stats.g.doubleclick.net
+[04:11:40] [log]   - google-analytics.com
+[04:11:40] [log]   - events.framer.com
+[04:11:40] [log]   - api.framer.com
+[04:11:40] [log]   - collect.frameranalytics.com
+[04:11:40] [log] Network interception enabled
+[04:11:40] [info] Navigating to https://davinkusuma.framer.website
+[04:11:41] [ok] Document loaded; waiting for page content and resources
+[04:11:41] [log] Intercepted 0 resources, blocked 0 tracking requests, skipped 0 platform assets
+[04:11:41] [log] Checking DOM-based platform detection...
+[04:11:41] [log] Hydration content found: #main
+[04:11:46] [log] Waiting for font layout and response bodies
+[04:11:46] [log] Resources settled
+[04:11:46] [log] Captured HTML and CSSOM (193.9 KB)
+[04:11:46] [ok] Captured 33 network resources total
+[04:11:46] [log]   CSS: 0 | JS: 16 | Images: 10 | Fonts: 0
+[04:11:46] [log] Scanning page for internal links...
+[04:11:46] [log] Found 5 sub-page links on the home page
+[04:11:46] [log]   Navigating to sub-page: https://davinkusuma.framer.website/cat-notes
+[04:11:47] [log] Hydration content found: #main
+[04:11:51] [log] Waiting for font layout and response bodies
+[04:11:51] [log] Resources settled
+[04:11:51] [log]   Sub-page fetched: 121.4 KB
+[04:11:51] [log]   Saved: subpages/cat-notes.html
+[04:11:51] [log]   Navigating to sub-page: https://davinkusuma.framer.website/get-flagged
+[04:11:52] [log] Hydration content found: #main
+[04:11:56] [log] Waiting for font layout and response bodies
+[04:11:56] [log] Resources settled
+[04:11:56] [log]   Sub-page fetched: 118.2 KB
+[04:11:56] [log]   Saved: subpages/get-flagged.html
+[04:11:56] [log]   Navigating to sub-page: https://davinkusuma.framer.website/kaimera
+[04:11:57] [log] Hydration content found: #main
+[04:12:01] [log] Waiting for font layout and response bodies
+[04:12:01] [log] Resources settled
+[04:12:01] [log]   Sub-page fetched: 118.0 KB
+[04:12:01] [log]   Saved: subpages/kaimera.html
+[04:12:01] [log]   Navigating to sub-page: https://davinkusuma.framer.website/what-stays-behind
+[04:12:02] [log] Hydration content found: #main
+[04:12:06] [log] Waiting for font layout and response bodies
+[04:12:06] [log] Resources settled
+[04:12:06] [log]   Sub-page fetched: 117.0 KB
+[04:12:06] [log]   Saved: subpages/what-stays-behind.html
+[04:12:06] [log]   Navigating to sub-page: https://davinkusuma.framer.website/kopycut
+[04:12:07] [log] Hydration content found: #main
+[04:12:12] [log] Waiting for font layout and response bodies
+[04:12:12] [log] Resources settled
+[04:12:12] [log]   Sub-page fetched: 119.0 KB
+[04:12:12] [log]   Saved: subpages/kopycut.html
+[04:12:12] [ok] Sub-pages crawled: 5
+[04:12:12] [log] Browser closed
+[04:12:12] [ok] Queued 32 resource(s) declared in HTML but never requested
+[04:12:12] [log] Starting download of 79 assets and their CSS/HTML dependencies
+[04:12:13] [ok] Downloads complete: 79 succeeded, 47 from cache
+[04:12:13] [ok] Lazy-loaded chunks resolved: 1
+[04:12:13] [log] Starting HTML post-processing...
+[04:12:13] [log] HTML size: 193.9 KB
+[04:12:13] [ok] Index HTML pipeline complete
+[04:12:13] [log] Rewrote URLs in 12 JS/CSS files
+[04:12:13] [ok] Sub-pages linked to local assets: 5/5
+[04:12:13] [ok] Captured asset URLs rewritten to local paths
+[04:12:14] [ok] Formatted 28/28 JS/MJS files
+[04:12:14] [log] Writing index.html (200.4 KB)...
+[04:12:14] [ok] index.html written
+[04:12:14] [log] serve.js written
+[04:12:14] [log] package.json written for serve.js
+[04:12:14] [ok] Output build complete
+[04:12:14] [ok] Export complete!
