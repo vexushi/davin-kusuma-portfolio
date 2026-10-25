@@ -1,0 +1,62 @@
+import { Oa as l } from "./chunk-VEB6EOI6.mjs";
+import { Jq as T, Vi as i, Yj as p, _j as m } from "./chunk-KHAT6QH3.mjs";
+import { a as g } from "./chunk-SWYZG2NI.mjs";
+import { b as k } from "./chunk-4JY5UMT2.mjs";
+import { e as y } from "./chunk-WLHSDIGQ.mjs";
+function V(o) {
+  let e = {};
+  for (let r of l.getTokenNodes(o)) {
+    e[i] || (e[i] = {});
+    let t = e[i];
+    (k(t, "Tokens entry must exist"), (t[r.id] = r));
+  }
+  return e;
+}
+function v(o) {
+  let e = {};
+  for (let r of l.getAllTokenNodes(o)) e[r.id] = r;
+  return e;
+}
+function w(o, e, r) {
+  let t = o.cloneWithIds(),
+    s = Object.values(v(e));
+  for (let n of t.walk()) n.assign(p(n, s, r));
+  return t;
+}
+function P(o, e, r) {
+  if (!e) return;
+  let t = Object.values(v(o)),
+    s = {};
+  for (let n of t) {
+    let a = n.colorForMode(r);
+    if (!a) return;
+    s[n.id] = a;
+  }
+  for (let [n, a] of e) {
+    let d = new T();
+    for (let [c, f] of a) {
+      let u = m(f, s);
+      u ? d.set(c, u) : d.set(c, f);
+    }
+    e.set(n, d);
+  }
+}
+function O(o) {
+  for (let e in o) return [e, o[e]];
+}
+var b = y(g(), 1);
+function C() {
+  return document.body.dataset.framerTheme === "dark";
+}
+function N(o) {
+  let e = new MutationObserver(o);
+  return (
+    e.observe(document.body, { attributes: !0, attributeFilter: ["data-framer-theme"] }),
+    () => e.disconnect()
+  );
+}
+function D() {
+  return (0, b.useSyncExternalStore)(N, C);
+}
+export { O as a, C as b, D as c, V as d, v as e, w as f, P as g };
+//# sourceMappingURL=https://app.framerstatic.com/chunk-O46RBJ3D.mjs.map

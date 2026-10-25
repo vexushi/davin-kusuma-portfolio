@@ -1,0 +1,13 @@
+{
+  "source": "https://inclusive-wealth-206232.framer.app/",
+  "platform": "framer",
+  "captureMode": "html-with-runtime",
+  "generatedAt": "2026-10-25T03:10:23.633Z",
+  "assets": 618,
+  "failedAssets": [],
+  "subpages": 5,
+  "visualValidation": "not-run",
+  "limitations": [
+    "Server-side accounts, payments, search and form processing are not exported."
+  ]
+}
