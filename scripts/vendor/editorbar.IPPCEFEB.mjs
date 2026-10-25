@@ -79,7 +79,7 @@ async function h() {
       t.data.projectFeatures &&
       (window.framerProjectFeatures = t.data.projectFeatures),
     await Promise.all([w(), b()]));
-  let { renderEditorBar: m } = await import("./render-YIVFXOOJ.mjs");
+  let { renderEditorBar: m } = await import("https://app.framerstatic.com/render-YIVFXOOJ.mjs");
   await m(t, r);
 }
 h().catch(console.error);
